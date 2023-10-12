@@ -1,0 +1,31 @@
+*{
+    margin:0;
+}
+.head{
+    background-color: #93B5C9;
+    height: 200px;
+    width: 150%;
+}
+.head2{
+    background-color: #AB2849;
+    height: 250px;
+    width: 100%;
+}
+.center {
+    margin-top: 30px;
+    margin-left: 20%;
+    width: 100%;
+    height: 150px;
+    background-color: #AB2849;
+    padding: 10px;
+  }
+  
+  .foot {
+    margin-top: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 90%;
+    height: 100px;
+    background-color: #AB2849;
+    padding: 10px;
+  }

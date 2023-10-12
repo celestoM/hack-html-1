@@ -1,0 +1,45 @@
+*{
+    margin:0;
+}
+.head{
+    background-color: #93B5C9;
+    height: 200px;
+    width: 150%;
+}
+.head2{
+    background-color: #AB2849;
+    height: 250px;
+    width: 150%;
+    margin-bottom: 30px;
+}
+
+.flex-container{
+    display: flex;
+    flex-flow: column wrap;
+    align-items:flex-start;
+}
+
+.caja {
+    width: 78.5%;
+    height: 150px;
+    background-color: #AB2849;
+    padding: 10px;
+    border: solid 1px;
+    margin-bottom: 30px;
+  }
+
+  
+  .foot {
+    display: flex;
+    flex-flow: column wrap;
+    justify-content: center;
+    align-items: center;  
+  }
+
+  .caja2 {
+    width: 90%;
+    height: 100px;
+    background-color: #AB2849;
+    padding: 10px;
+    border: solid 1px;
+  }

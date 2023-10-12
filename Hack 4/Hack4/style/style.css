@@ -1,0 +1,96 @@
+*{
+    margin:0;
+}
+.linea{
+  background-color: black;
+  margin: auto;
+  margin-top: 100px;
+  height: 8px;
+  width: 8%;
+  border-radius: 5px;
+}
+.flex-container{
+  display: flex;
+  flex-flow: column wrap;
+  justify-content: center;
+  box-sizing: border-box;
+  align-items: center;
+}
+.text1{
+  margin-top: 50px;
+  font-family: 'Ruda';
+  font-size: 3rem; 
+  font-weight: bold;
+  letter-spacing: .3rem;                                               
+}
+.text2{
+  margin-top: -25px;
+  font-family: 'Ruda';
+  font-size: 14rem;
+  text-size-adjust: 50% off;
+  color:#B88940;
+  font-weight: bold; 
+  letter-spacing: 1.5rem;                                              
+}
+.text3{
+  margin-top: -15px;
+  font-family: 'Ruda';
+  font-size: 5rem; 
+  font-weight: bolder;
+  letter-spacing: .3rem;                                               
+}
+.text4{
+  margin-top: 25px;
+  font-family: 'Catamaran';
+  font-size: 3rem; 
+  font-weight: bolder;
+  letter-spacing: .3rem; 
+  margin-bottom: 160px;                                              
+}
+.text5{
+  margin-left: 35%;
+  font-family: 'Ruda';
+  font-size: 3.5rem;
+  color:#B88940;
+  font-weight: bolder; 
+  letter-spacing: 0.5rem;                                              
+}
+.text6{
+  margin-top: -20px;
+  margin-left: 38%;
+  font-family: 'Catamaran';
+  font-size: 2rem; 
+  font-weight: bolder;                                              
+}
+.linea-amarilla{
+  margin-top: 40px;
+  height: 50px;
+  width: 100%;
+  background-color: #FFBD59;
+}
+.foto{
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: center; 
+}
+.image1{
+  margin-top: -360px;
+  margin-right: 10px;
+  height: 400px;
+  width: 300px;
+}
+.text-foto{
+
+  margin-left: 25%;
+  font-family: 'Catamaran';
+  font-size: 2rem; 
+  font-weight: bolder;
+}
+
+.foot {
+    margin-top: 150px;
+    margin-bottom: 200px;  
+    width: 100%;
+    height: 100px;
+    padding: 10px;
+  }
